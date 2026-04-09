@@ -40,6 +40,11 @@
 * Implementation of all 32 prototype separators.
 * Full settings suite with collapsible drawers, live previews, and color/gradient/thickness controls.
 
+## ⚖️ License
+
+Copyright © 2026 bigelephant67. **All Rights Reserved.**
+Redistribution, modification, and commercial use (selling) are strictly prohibited.
+
 ---
 **Developer:** [bigelephant67](https://github.com/bigelephant67)  
 **ID:** `custom-separator-studio`
