@@ -1,16 +1,16 @@
 ---
-Made by: https://github.com/bigelephant67
-GitHub repo: https://github.com/bigelephant67/custom-separator-studio
+Made by: https://github.com/sujit-waghmare
+GitHub repo: https://github.com/sujit-waghmare/custom-separator-studio
 Date: 2026-04-10
 cssclasses:
   - r-Y
 ---
 # 🎨 Separator Studio — Complete 1:1 Tutorial
 
-![GitHub release (latest by asset)](https://img.shields.io/github/v/release/bigelephant67/custom-separator-studio?color=blue&style=flat-square)
+![GitHub release (latest by asset)](https://img.shields.io/github/v/release/sujit-waghmare/custom-separator-studio?color=blue&style=flat-square)
 ![Obsidian Minimum Version](https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square)
 ![License](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat-square)
-![GitHub Release Date](https://img.shields.io/github/release-date/bigelephant67/custom-separator-studio?style=flat-square)
+![GitHub Release Date](https://img.shields.io/github/release-date/sujit-waghmare/custom-separator-studio?style=flat-square)
 
 ---
 
@@ -28,7 +28,7 @@ To prepare for installation:
 
 ## 🗂 STEP 2: Manual Installation of the Plugin
 
-Since this plugin is not on the community store yet, install it manually from [GitHub](https://github.com/bigelephant67/custom-separator-studio).
+Since this plugin is not on the community store yet, install it manually from [GitHub](https://github.com/sujit-waghmare/custom-separator-studio).
 
 ### Folder structure you need:
 
